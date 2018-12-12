@@ -4975,7 +4975,7 @@ B	js/jquery-3.2.1.min.js	/^!function(a,b){"use strict";"object"==typeof module&&
 B	js/jquery-3.2.1.min.js	/^!function(a,b){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f	function:AnonymousFunction1d1a46ed2200
 Barlovento	barlovento.html	/^                    <h1 class="entry__header-title display-1">Barlovento<\/h1>$/;"	h
 C	js/modernizr.js	/^!function(e,n,t){function r(e,n){return typeof e===n}function o(){var e,n,t,o,a,s,i;for(var c in/;"	v
-Cuba	cuba.html	/^                    <h1 class="entry__header-title display-1">Cuba<\/h1>$/;"	h
+Cuba Restaurant and Rum Bar	cuba.html	/^                    <\/h1>$/;"	h
 Cuban cuisine meets modern Times Square	index.html	/^                                <\/h1>$/;"	h
 Cuban music with not-so-Cuban food	index.html	/^                                    <\/h1>$/;"	h
 D	js/plugins.js	/^    t))){s&&(G=G.replace(d,"\\r"));A.nodeValue=G;var L=A.ownerDocument,o=L.createElement("span")/;"	v
@@ -4998,7 +4998,6 @@ K	js/jquery-3.2.1.min.js	/^!function(a,b){"use strict";"object"==typeof module&&
 K	js/plugins.js	/^    r.className="linenums";for(var d=Math.max(0,d-1|0)||0,i=0,n=c.length;i<n;++i)k=c[i],k.classN/;"	f
 Ka	js/jquery-3.2.1.min.js	/^a.removeEventListener("load",S),r.ready()}"complete"===d.readyState||"loading"!==d.readyState&&!/;"	f
 Large Heading	barlovento.html	/^                    <h2>Large Heading<\/h2>$/;"	i
-Large Heading	cuba.html	/^                    <h2>Large Heading<\/h2>$/;"	i
 Large Heading	guantanamera.html	/^                    <h2>Large Heading<\/h2>$/;"	i
 Large Heading	havanacentral.html	/^                    <h2>Large Heading<\/h2>$/;"	i
 M	js/jquery-3.2.1.min.js	/^!function(a,b){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
@@ -5033,7 +5032,6 @@ S	js/jquery-3.2.1.min.js	/^!function(a,b){"use strict";"object"==typeof module&&
 S	js/modernizr.js	/^!function(e,n,t){function r(e,n){return typeof e===n}function o(){var e,n,t,o,a,s,i;for(var c in/;"	v
 S	js/plugins.js	/^    (function(){function S(a){function d(e){var b=e.charCodeAt(0);if(b!==92)return b;var a=e.cha/;"	f
 Smaller Heading	barlovento.html	/^                    <h3>Smaller Heading<\/h3>$/;"	j
-Smaller Heading	cuba.html	/^                    <h3>Smaller Heading<\/h3>$/;"	j
 Smaller Heading	guantanamera.html	/^                    <h3>Smaller Heading<\/h3>$/;"	j
 Smaller Heading	havanacentral.html	/^                    <h3>Smaller Heading<\/h3>$/;"	j
 Solid 6/10	index.html	/^                                    <\/h1>$/;"	h
