@@ -4997,7 +4997,6 @@ Ja	js/jquery-3.2.1.min.js	/^a.removeEventListener("load",S),r.ready()}"complete"
 K	js/jquery-3.2.1.min.js	/^!function(a,b){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
 K	js/plugins.js	/^    r.className="linenums";for(var d=Math.max(0,d-1|0)||0,i=0,n=c.length;i<n;++i)k=c[i],k.classN/;"	f
 Ka	js/jquery-3.2.1.min.js	/^a.removeEventListener("load",S),r.ready()}"complete"===d.readyState||"loading"!==d.readyState&&!/;"	f
-Large Heading	havanacentral.html	/^                    <h2>Large Heading<\/h2>$/;"	i
 M	js/jquery-3.2.1.min.js	/^!function(a,b){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
 M	js/plugins.js	/^    "catch,class,delete,false,import,new,operator,private,protected,public,this,throw,true,try,t/;"	v
 Mb	js/jquery-3.2.1.min.js	/^null==d?void 0:d))},attrHooks:{type:{set:function(a,b){if(!o.radioValue&&"radio"===b&&B(a,"input/;"	f
@@ -5029,7 +5028,6 @@ R	js/plugins.js	/^    Q=[y,"alias,and,begin,case,class,def,defined,elsif,end,ens
 S	js/jquery-3.2.1.min.js	/^!function(a,b){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
 S	js/modernizr.js	/^!function(e,n,t){function r(e,n){return typeof e===n}function o(){var e,n,t,o,a,s,i;for(var c in/;"	v
 S	js/plugins.js	/^    (function(){function S(a){function d(e){var b=e.charCodeAt(0);if(b!==92)return b;var a=e.cha/;"	f
-Smaller Heading	havanacentral.html	/^                    <h3>Smaller Heading<\/h3>$/;"	j
 Solid 6/10	index.html	/^                                    <\/h1>$/;"	h
 T	js/modernizr.js	/^!function(e,n,t){function r(e,n){return typeof e===n}function o(){var e,n,t,o,a,s,i;for(var c in/;"	c
 The domain portion of the email address is invalid (the portion after the @: )	js/plugins.js	/^(function($){"use strict";$.ajaxChimp={responses:{"We have sent you a confirmation email":0,"Ple/;"	p	class:$.ajaxChimp.responses
